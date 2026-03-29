@@ -1,0 +1,61 @@
+Open Source Software — Case Study Submission
+Student: Prashil Hareshkumar Dhingani
+Registration Number: 24BCE10368
+Course: Open Source Software (OSS NGMC)
+Submission Date: 28 March 2026
+
+---
+
+Files Included in This ZIP
+
+1. LibreOffice_CaseStudy_Nitin_Chauhan.pdf
+   Main report for the LibreOffice case study assignment.
+   The report discusses the OpenOffice governance issue, the Oracle acquisition,
+   the creation of LibreOffice, and ethical and technical lessons from the fork.
+
+2. Script Files (Shell Scripts)
+   These scripts were created as part of the practical component of the project:
+
+   * System Identity Report
+   * FOSS Package Inspector
+   * Disk and Permission Auditor
+   * Log File Analyzer
+   * Open Source Manifesto Generator
+
+   All scripts are written in Bash and designed to run on Linux systems.
+
+---
+
+How to Run the Scripts
+
+1. Extract the ZIP file.
+2. Open a terminal in the script folder.
+3. Give permission to run scripts:
+
+chmod +x script_name.sh
+
+4. Run the script:
+
+./script_name.sh
+
+Example:
+./system_identity_report.sh
+
+---
+
+Purpose of the Project
+
+This submission demonstrates understanding of:
+
+* Open source governance
+* Community vs corporate control
+* Open source licensing
+* Linux command-line usage
+* Shell scripting for system analysis
+
+---
+
+Notes
+
+All work in this submission was prepared for academic purposes
+as part of the Open Source Software course.
